@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 butterfly the biggest girl 
 i love butterfly 
 butterfly is nice pochi
+=======
+created file in gitbranch1s
+>>>>>>> gitbranch1
